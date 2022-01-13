@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22.323mm" height="22.323mm" version="1.1" viewBox="0 0 22.323 22.323" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ 
+ <g transform="translate(-112.64 -43.326)">
+  <g fill="none">
+   <path d="m123.55 57.256v0l-1.4042 7.8927v0h-6.4857v0l1.1297-6.35v0" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+   <path d="m123.3 58.799h-6.4857" stroke="#000"/>
+   <path d="m122.9 60.916h-6.4857" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+   <path d="m122.52 63.032h-6.4857" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="m123.55 57.256-0.27447 1.5427h-6.4857l1.667-9.3702" fill="#fdca2b" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+  <path transform="rotate(10.088)" d="m126.77 32.163a6.7942 6.7942 0 0 1 0.23202-8.7683 6.7942 6.7942 0 0 1 8.6843-1.2326 6.7942 6.7942 0 0 1 2.6627 8.3574 6.7942 6.7942 0 0 1-7.7967 4.0184" fill="#fdca2b" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round">
+   <path d="m127.72 48.799 1.8331 1.8209-1.8338 1.8338" stroke-linejoin="round"/>
+   <path d="m122.57 48.799-1.8331 1.8209 1.8338 1.8338" stroke-linejoin="round"/>
+   <path d="m125.9 48.743-1.4982 3.7527"/>
+  </g>
+ </g>
+</svg>
