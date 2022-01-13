@@ -1,29 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pondr</title>
-</head>
-<body>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;700&display=swap');
-        body,html {
-            height: 100%;
-            font-family: Asap, Arial, sans-serif;
-        }
-        .flex, body  {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-    </style>
-    <div class="flex">
-        <img src="pondr-icon.svg" alt="" srcset="">
-        <span style="font-size: 30pt; font-weight: bold;">
-            Coming on 1/13!
-        </span>
-    </div>
-</body>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="Coding knows no bounds. Pondr aims to make coding accessible to all.">
+        <title>Pondr</title>
+        <link rel="stylesheet" href="style.css" />
+        <link rel="shortcut icon" href="pondr-icon.svg" type="image/x-icon" />
+    </head>
+    <body>
+        <div class="viewport-fill">
+            <nav id="nav">
+                <div>
+                    <img src="pondr-icon.svg" alt="Pondr logo" />
+                    <a href="/"><h1>Pondr</h1></a>
+                </div>
+                <div>
+                    <h2><a href="courses.html">Courses</a></h2>
+                    <h2><a href="about.html">About</a></h2>
+                </div>
+            </nav>
+            <div id="fixed-space"></div>
+            <div class="content hero">
+                <h1 class="hero">CODING KNOWS</h1>
+                <h1 class="hero">NO BOUNDS</h1>
+            </div>
+        </div>
+        <div class="content">
+            <h2>Our Mission</h2>
+            <div class="title">Our mission is to spread CS education and demonstrate the power and accessibility of code. </div>
+            <br><br>
+            <p>Many believe an education in computer science needs to be expensive, with
+            gaming computers and expensive courses and tutoring. But that's not the case. 
+            Coding is the only field in the world where you can get started with the computer
+            in the library, or the Chromebook you already have. That's how all of your self-taught instructors
+            learned, and we're proud to share our own educational journey with you. Join us as we tackle
+            everything from Python basics to web design to artificial intelligence and beyond. Keep Pondring!</p>
+        </div>
+        <footer>
+            <span> &copy; 2021 Pondr </span>
+            <span>
+                <a href="mailto:tech.pondr@gmail.com" target="_blank">Contact Us</a>
+                <img src="pondr-icon.svg" alt="Pondr logo" height="50px" />
+            </span>
+        </footer>
+        <script src="app.js"></script>
+    </body>
 </html>
