@@ -27,7 +27,7 @@
     width: 20vw;
 }
 
-.text > a {
+p > a {
     color:#008CBA;
     text-decoration: underline;
 }
