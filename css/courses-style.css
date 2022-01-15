@@ -1,0 +1,12 @@
+.video-grid {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    max-width: 100vw;
+    flex-wrap: wrap;
+}
+
+.video-grid > .container {
+    text-align: center;
+}
