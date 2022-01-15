@@ -20,9 +20,14 @@
     flex-direction: column;
 }
 
-.content  img {
+.picture > img {
     object-fit: cover;
     border-radius: 50%;
     height: 20vw;
     width: 20vw;
+}
+
+p > a {
+    color:#008CBA;
+    text-decoration: underline;
 }
