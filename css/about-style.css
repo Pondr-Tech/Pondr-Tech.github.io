@@ -11,6 +11,8 @@
     display: flex;
     overflow: hidden;
     object-fit: cover;
+    align-items: center;
+    justify-content: center;
 }
 
 .text {
