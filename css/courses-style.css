@@ -10,3 +10,8 @@
 .video-grid > .container {
     text-align: center;
 }
+
+iframe {
+	width: min(560px, 100vw);
+    height: min(315px, 57vw);
+}
